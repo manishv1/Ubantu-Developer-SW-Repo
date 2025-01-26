@@ -1,4 +1,7 @@
-# XP-PEN
+# Ubantu Developer Software Repo 
 
 
-Ubantu Driver for my XP-Pen 
+This repo contains all softwares generally I needed to setup new Ubantu machine 
+
+
+1. XP-Pen software added 
